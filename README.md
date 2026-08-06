@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @LexLuthr
-- 👀 I’m interested in Crypto, Kubernetes and Go.
-- 🌱 I’m currently learning Go.
 - 📫 How to reach me Email: lexluthr@curiostorage.org
 
 <!---
